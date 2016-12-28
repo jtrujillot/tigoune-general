@@ -1,0 +1,3 @@
+tigo_une_general_bundles_authorization_homepage:
+    path:     /
+    defaults: { _controller: TigoUneGeneralBundlesAuthorizationBundle:Default:index }

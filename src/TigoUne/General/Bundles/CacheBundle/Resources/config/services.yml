@@ -1,0 +1,4 @@
+services:
+#    tigo_une_general_bundles_cache.example:
+#        class: TigoUne\General\Bundles\CacheBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

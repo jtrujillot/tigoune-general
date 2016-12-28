@@ -1,0 +1,3 @@
+tigo_une_general_bundles_helper_homepage:
+    path:     /
+    defaults: { _controller: TigoUneGeneralBundlesHelperBundle:Default:index }

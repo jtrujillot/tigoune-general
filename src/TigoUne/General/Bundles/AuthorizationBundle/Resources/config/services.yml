@@ -2,6 +2,6 @@ services:
 #    tigo_une_general_bundles_authorization.example:
 #        class: TigoUne\General\Bundles\AuthorizationBundle\Example
 #        arguments: ["@service_id", "plain_value", "%parameter%"]
-    tigo_une_general_bundles_authorization.autorization_repository:
+    tigoune_general.authorization.autorization_repository:
         class: TigoUne\General\Bundles\AuthorizationBundle\Repository\AuthorizationRepository
-        arguments: ['@service_container', '@doctrine.orm.entity_manager']
+        arguments: ['@service_container']

@@ -1,4 +1,0 @@
-services:
-#    tigo_une_general_bundles_data_protection.example:
-#        class: TigoUne\General\Bundles\DataProtectionBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]

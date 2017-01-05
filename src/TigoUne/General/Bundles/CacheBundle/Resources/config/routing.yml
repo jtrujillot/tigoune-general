@@ -1,3 +1,0 @@
-tigo_une_general_bundles_cache_homepage:
-    path:     /
-    defaults: { _controller: TigoUneGeneralBundlesCacheBundle:Default:index }

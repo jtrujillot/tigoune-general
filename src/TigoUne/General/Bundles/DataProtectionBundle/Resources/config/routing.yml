@@ -1,3 +1,0 @@
-tigo_une_general_bundles_data_protection_homepage:
-    path:     /
-    defaults: { _controller: TigoUneGeneralBundlesDataProtectionBundle:Default:index }

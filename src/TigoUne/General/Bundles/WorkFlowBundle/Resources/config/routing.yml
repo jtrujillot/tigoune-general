@@ -1,3 +1,0 @@
-tigo_une_general_bundles_work_flow_homepage:
-    path:     /
-    defaults: { _controller: TigoUneGeneralBundlesWorkFlowBundle:Default:index }
